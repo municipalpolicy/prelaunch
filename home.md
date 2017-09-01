@@ -2,15 +2,21 @@
 <!-- SUBTITLE: Standing Up A Municipal Policy Think Tank -->
 
 
-## Launch Needs
+# Launch Needs
 [Current Tasks](/current-tasks)
 
-## Staff
+# Staff
 [Current Team](/current-team)
 [Recruitment Needs](/recruiting-needs)
 
-## Name
+# Name
 [Org Name](/org-name)
+
+# The Why and the How
+## The Needs We Fill
+[Needs Assessment](/status-quo-ante)
+
+## Our Activities and Outputs
 
 ## Funding
 [Potential Funding Sources](/potential-funding-sources)
@@ -30,25 +36,7 @@
 
 
 
-## Positioning
-### Competitive landscape
-* Urban does long-range research
-* WWC is data-driven reform oriented
-* Cities of Service is volunteerism oriented
-	* Blueprint contests are interesting though
-* Living Cities
-* Midwest democracy network look into 
-* Mayor’s Innovation Project (Madison WI) Center on WI Strategies
-	* focused new best practices for cities (all sizes)
-	* evolved S/M cities
-	* Satya Conway DJB
-	* Pushing out ideas/best practices (info sharing network)
-	* Struggled w/ TA
-* Center for Neighbourhood Technology (Chicago, IL) Scott Bernstein
-	* opportunities for cities
-	* real time arrival bus ridership
-	* affordability matrix (transport/housing cost matrix)
-		* drive until you qualify
+
 
 ### What can we add?
 1. Scaled Policies
