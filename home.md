@@ -31,7 +31,7 @@ Potential Support
 * graphics and visualisation
 	* 
 
-## [[Current Team]]
+## CurrentTeam
 
 ## Funding
 ### Sources
