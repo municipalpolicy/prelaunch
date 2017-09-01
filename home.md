@@ -5,26 +5,13 @@
 ## Launch Needs
 [Current Tasks](/current-tasks)
 
-
-Potential Support
-* graphics and visualisation
-	* 
-
 ## Staff
 [Current Team](/current-team)
+[Recruitment Needs](/recruiting-needs)
 
 ## Funding
-### Sources
-* grants
-	* Layla suggests
-		* Knight
-		* Rockefeller
-	* Pat suggested
-		* Kresge
-		* Lumina
-		* Woodward Hines for Jackson MS
-	* Community foundations generally?
-* Consulting fees with city governments
+[Potential Funding Sources](/potential-funding-sources)
+
 
 ### Initial Cities
 * PA: Easton (via Arthur)
