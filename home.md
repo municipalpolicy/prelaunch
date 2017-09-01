@@ -143,3 +143,6 @@ DJ Baxter
 # Potential Conferences to Attend
 [Conference Schedule](/conferences)
 
+# Potential Tech Stack
+[Tech Stack](/technology)
+
