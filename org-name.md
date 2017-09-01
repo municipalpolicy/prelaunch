@@ -8,7 +8,10 @@
 4. ADPFS—is there an alternative domain name available with the acronym?
 5. Gravitas—Does it inspire confidence
 6. Whimsy—Does it sound fun?
-# Some options
+# Ideas Received
+## Default: Municipal Policy Institute
+Any views on that name?
+## Other Options Include
 * Municipal Policy Research Institute (NWP, ADPFS)
 * Center for Municipal Policy Research (NWP, ADPFS)
 * Center for Municipal Policy Analysis (NWP)
