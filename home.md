@@ -31,7 +31,7 @@ Potential Support
 * graphics and visualisation
 	* 
 
-## [Current Team](/current-team)
+[Current Team](/current-team)
 
 ## Funding
 ### Sources
