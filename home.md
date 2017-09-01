@@ -152,19 +152,6 @@ DJ Baxter
 * State NYC Eric PPP
 	* Dallas The P3 conference
 
-# Conference Schedule
-## Winter
-## Spring
-## Summer
-• Early June—Chicago Forum on Global Cities
-* Mid August—Mayors’ Innovation Project
-## Fall
-* Late September—American Planning Association—Policy and Advocacy Conference
-* Late September—International Conference on Sustainable Development
-* Late October—International City/County Management Association—Annual Conference
-* Mid November—National League of Cities—City Summit
-## Unknown
-* NextCity Vanguards!!!
-* Code for America Summit
+# Potential Conferences to Attend
+[Conference Schedule](/conferences)
 
-#newprojects
