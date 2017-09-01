@@ -31,7 +31,7 @@ Potential Support
 * graphics and visualisation
 	* 
 
-## CurrentTeam
+[Current Team](/allofus)
 
 ## Funding
 ### Sources
