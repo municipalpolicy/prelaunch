@@ -2,35 +2,15 @@
 <!-- SUBTITLE: Standing Up A Municipal Policy Think Tank -->
 
 
-## Current Tasks
-- [x] Reach out to SLC owner of citypolicy.org 
-	- [ ] DJB
-- [ ] Recruit
-	- [ ] Urban Planner
-	- [ ] Labour Economist
-	- [ ] Regional Macroeconomist
-	- [ ] Transport Engineer
-	- [ ] Housing Expert
-	- [ ] Primary/Secondary Ed Policy
-	- [ ] Tertiary Ed Policy
-		- [ ] Pat?
-	- [x] UDMH link
-	- [ ] Architect
-	- [ ] DPH
-		- [ ] Layla
-		- [ ] Portia **X**
-		- [ ] Lauren (assuming **X**)
-	- [ ] Criminology
-		- [ ] That grad student
-	- [ ] Law
-		- [ ] Conflict of Laws attorney 
-		- [ ] Regulatory Conflicts?
+## Launch Needs
+[Current Tasks](/current-tasks)
 
 
 Potential Support
 * graphics and visualisation
 	* 
 
+## Staff
 [Current Team](/current-team)
 
 ## Funding
