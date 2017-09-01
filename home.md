@@ -1,8 +1,8 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Standing Up A Municipal Policy Think Tank -->
 
-# A Municipal Policy Think Tank
-### Current Tasks
+
+## Current Tasks
 - [x] Reach out to SLC owner of citypolicy.org 
 	- [ ] DJB
 - [ ] Recruit
@@ -31,7 +31,7 @@ Potential Support
 * graphics and visualisation
 	* 
 
-[Current Team](/current-team)
+## [Current Team](/current-team)
 
 ## Funding
 ### Sources
