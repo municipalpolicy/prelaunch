@@ -9,7 +9,7 @@
 ## Winter
 ## Spring
 ## Summer
-• Early June—Chicago Forum on Global Cities
+* Early June—Chicago Forum on Global Cities
 * Mid August—Mayors’ Innovation Project
 ## Fall
 * Late September—American Planning Association—Policy and Advocacy Conference
